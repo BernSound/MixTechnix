@@ -5,5 +5,5 @@ Mastering Chain:
 - Stereo Compressor
 - Mastering EQ
 - Multiband Compressor
-- Brickwall Limiter
+- Brickwall Limiter (FabFilter L2)
 - Dither
